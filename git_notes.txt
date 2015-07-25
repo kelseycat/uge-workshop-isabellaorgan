@@ -19,3 +19,41 @@ git status - gives status report showing status of repo
 
 Basic Git Workflow:
 unix_notes --> Add/Staging(trying it out) --> commit(snapshot)--> unix_notes
+Also, see photo posted on Slack channel
+
+
+git add _____ (filename)
+(git status - note that color code of file name has changed)
+
+How can you tell that file has been added to repo? - use git status
+
+notes file has been added and is ready to be commited
+
+git will tell you that you can undo (unstage)
+
+git commit -m "add useful note here that is a good commit message using verbs like ADD"
+-m = modified
+good commit message ex = "adding unix notes, first draft"
+
+master and checkmark - done!
+
+git status should say nothing to commit, working directory clean
+
+if you don't do the -m flag, git will open a text editor
+
+commit creates permanent record
+1 - changes made to file on stage
+2 - ID of person who made change
+3 - date/time of change
+4 - check slides
+5 - check slides
+
+
+
+
+git log = history of repo
+
+git show + id 
+
+ls -a  (shows all, including hidden files)
+
