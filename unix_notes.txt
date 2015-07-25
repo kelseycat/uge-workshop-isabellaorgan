@@ -1,0 +1,297 @@
+pwd
+cd
+man ls | less
+history | less
+history 5
+cd /Users/isabellaorgan/
+..
+history 
+clear
+ls
+cd Users/isabellaorgan/
+cd /
+cd Dropbox
+cd repos
+cd ~
+~
+cd Desktop
+cd Applications
+ls Library
+ls /
+ls ~
+cd railsbridge
+cd ra
+cd cleanup/
+cd Movies
+cd Public
+cd ..
+cd home
+cd Pictures
+cd version-control
+ls -l
+\
+pwd
+cd /users/isabellaorgan/
+q
+man -i
+man ls -a
+man cd
+man pwd
+man
+man ls
+ls -1
+ls -i
+ls -h
+ls -g
+ls -f
+ls -t
+ls -e
+ls -d
+ls -c
+ls -b
+ls -a
+ls -rlt
+ls -rt
+ls -r
+ls -lt
+brew doctor
+curl -fsSL http://git.io/QxUaOQ | sh
+git --version
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+echo EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+brew -S 
+fish_update_completions
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew unlink fish
+chsh -
+killall fishd
+brew info 
+chsh -s /usr/local/bin/fish 
+chsh -s /usr/local
+brew update
+uname
+brew install node
+ls-a
+brew link git
+vi
+brew install git-flow
+brew install gitflow
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Isabella Organ'
+brew unlink git
+git -version
+brew install git
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+l-bash: __git_ps1: command not foundn -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+curl -fsSL http://git.io/beJs | ruby
+Terminal > Preferences
+ps1="\w$"
+echo '/user/local/bin/fish' | sudo tee -a /etc/shells
+cd~
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+p
+~/Library/Applications Support/Sublime Text 2/Packages
+in ~/Library/Applications Support/Sublime Text 2/Packages
+subl
+git diff 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+git diff 71d52709ddc4066e7a79a1d0a412e43429a0cdeb 547f4171a82ec6429d002c1acef357aec41d3f17
+git diff 547f4171a82ec6429d002c1acef357aec41d3f17
+git checkout 71d52709ddc4066e7a79a1d0a412e43429a0cdeb
+git checkout 547f4171a82ec6429d002c1acef357aec41d3f17
+git checkout 708bcce690e5faa5739bd471507c102ea16b77f7
+git checkout fa4c6bade4970c282b3870ad16f1bde8164663a9
+checkout fa4c6bade4970c282b3870ad16f1bde8164663a9
+git diff 708bcce690e5faa5739bd471507c102ea16b77f7 fa4c6bade4970c282b3870ad16f1bde8164663a9
+git log
+cd pappu-pakia
+git diff
+git diff 3d4ff5c87b906a5efd83b85d5d5f496864229db0 c12dc49709452bcfb6084b3cc7dc86042cb78ca3
+git diff a8591f086afa1db009aaa4398aca14c3b26b72da 3d4ff5c87b906a5efd83b85d5d5f496864229db0
+git diffa8591f086afa1db009aaa4398aca14c3b26b72da 3d4ff5c87b906a5efd83b85d5d5f496864229db0  
+git diffa8591f086afa1db009aaa4398aca14c3b26b72da 3d4ff5c87b906a5efd83b85d5d5f496864229db0
+git diff 031b9145feecb4eec6079bba39815381ce63b40c a8591f086afa1db009aaa4398aca14c3b26b72da
+git diff 61f136b94bb98232aad9fc631900460db076018f 031b9145feecb4eec6079bba39815381ce63b40c
+git diff 95dcfabe4ba7ff44fe0178f553dd8457b8f2c197 61f136b94bb98232aad9fc631900460db076018f
+ln -s /usr/share/git-core/contrib/completion/git-prompt.sh  /etc/profile.d/
+brew upgrade
+git diff 8c0c9d6bde18e7a811acde8965b5a84115cd277f c9724703eed4265bb314845d28b0637e4127dab1
+git dif
+cd udacity
+subl .bash_profile
+git config --global core.editor "subl -n -w"
+git config --global core.edito "subl -n -w"
+git config --global merge.conflictstyle diff3
+git config --global push.default upstream
+git config --global core editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
+cd isabellaorgan
+~ cd
+git checkout 3884eab839af1e82c44267484cf2945a766081f3
+git checkout 75928a98e18479b22b18888a33d36379f17b43c1
+git checkout f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+git diff df035382c41b4d0cda86a1aa30b53f15bef05b53 b0678b161fcf74467ed3a63110557e3d6229cfa6
+git diff  b0678b161fcf74467ed3a63110557e3d6229cfa6 f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+git diff commit b0678b161fcf74467ed3a63110557e3d6229cfa6 commit f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+cd asteroids
+git clone https://github.com/udacity/asteroids.git
+git clone
+rails server
+cd job_board
+bundle install
+rake db:migrate
+rails g devise user
+cd views
+rails g devise:install
+rails g model job
+rails generate controller jobs
+open doc
+rails new job_board -T --skip-turbolinks
+rails c
+irb
+rake test
+gem list
+gem install test-unit
+ls lib/
+cat tests/test_NAME.rb 
+ls tests/
+ls test/
+ll test/
+cd skeleton
+cd projects
+cd documents
+Cd documents
+git diff a/game.js b/game.js
+heroku open
+heroku info
+heroku run rake db:migrate
+git push heroku master
+git commit -m "Updates for heroku deployment"
+git add .
+git add
+bundle install --without production
+git remote show
+heroku create
+git commit -m "initial commit"
+git add -A
+git init
+rails generate scaffold drink name:string temperature:integer
+cd test_app
+rails new test_app
+mkdir railsbridge
+heroku version
+ls ~/.ssh/id_rsa
+git config --get user.email
+git config --get user.name
+which rails
+which ruby
+rails -v
+ruby -v
+rvm --default use 2.2
+rvm use 2.2
+rvm autolibs homebrew
+type rvm | head -1
+brew -v
+gcc --version
+rails generate scaffold drink:string temperature:integer
+rail server
+rails s
+radiant-lowlands-1652.cd ~
+subl lesson_1_reflections.txt
+cd reflections
+mkdir reflections
+mkdir version-control
+heroku infoheroku open
+git add _A
+heroku keys:add
+2
+ssh-add ~/.ssh/id_rsa
+ssh-keygen -C isabellaorgan@gmail.com -t rsa
+git config --global color.ui auto
+git config --global user.email "isabellaorgan@gmail.com"
+git config --global user.name "Isabella Organ"
+rvm -v
+.bash_profile
+run .bash_profile
+.bash-profile
+ls:/Downloads/Sublime Text 2.app/Contents/SharedSupport/bin
+ls /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin
+cd applications
+diff -u game_old.webarchive game_new.webarchive
+diff -u game_old.html game_new.html
+diff -u game_old game_new
+diff -u game_old.txt game_new.txt
+cd downloads
+cd ex47
+sudo gem install sinatra
+home brew
+find . -name "*NAME*" -print
+mv lib/NAME.rb lib/lexicon.rb
+mv lib/NAME lib/lexicon
+mv tests/test_Name.rb tests/lexicon.rb
+mv bin/NAME bin/lexicon
+mv Name.gemspec lexicon.gemspec
+cd lexicon
+cp -r skeleton lexicon
+cd projects 
+Integer("hell")
+cd documetns
+ls -R
+ruby rakefile.rb
+rakefile.rb
+rake file
+Test::Unit
+bundle exec ruby test_ex47.rb
+bundle update
+cd tests
+rake test --trace
+rake file --trace
+--trace rake file
+cd ex27
+source ~/.bash_profile
+/System/Library/Kernels/kernel ; exit;
+mv lib/NAME.rb lib/ex47.rb
+mv lib/NAME lib/ex47
+mv tests/test_NAME.rb tests/test_ex47.rb
+mv test/test_NAME.rb tests/test_ex47.rb
+mv test/test_NAME.rb test/test-ex47.rb
+mv bin/NAME.rb test/test_ex47.rb
+mv Name.gemspec ex47.gemspec
+mv bin/NAME.rb test/test-ex47.rb
+mv NAME.genspec ex47.gemspec
+cp -r skeleton ex47
+cd Documents
+/Library/Ruby/Gems/2.0.0/gems/test-unit-2.0.0.0/bin/testrb ; exit;
+/Library/Ruby/Gems/2.0.0/gems/rake-0.9.6/bin/rake ; exit;
+mkdir test
+touch lib/NAME.rb
+touch bin/NAME
+touch bin/Name
+mkdir bin data doc ext lib tests lib/NAME
+mkdir skeleton
+mkdir projects
+ruby ex44e1.rb
+ruby ex44e.rb
+ruby 44e.rb
+ruby ex44d.rb
+ruby ex44c.rb
+ruby ex44c
+ruby ex44b.rb
+ruby ex44a.rb
+ruby ex43.rb
+ex43.rb
+ruby ex43,rb
+ruby ex443.rb
+ruby ex42.rb
+ruby oop_test.rb
+oop_test.rb
+ruby ex40.rb
+ruby ex39_test.rb
+ruby ex39.rb
+ruby ex38.rbruby ex39.rb
+ruby ex38.rb
+ruby ex35.rb
