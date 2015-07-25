@@ -41,6 +41,9 @@ git status should say nothing to commit, working directory clean
 
 if you don't do the -m flag, git will open a text editor
 
+git init command will initialize a new empty git repository
+     run this command only 1 time per project!
+
 commit creates permanent record
 1 - changes made to file on stage
 2 - ID of person who made change
@@ -53,7 +56,7 @@ commit creates permanent record
 
 git log = history of repo
 
-git show + id 
+git show + id
 
 ls -a  (shows all, including hidden files)
 
