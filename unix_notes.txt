@@ -1,3 +1,9 @@
+Hidden files begin with "."
+so, .git = hidden file
+use ls -a to show all files, including hidden files.
+
+
+
 pwd
 cd
 man ls | less
