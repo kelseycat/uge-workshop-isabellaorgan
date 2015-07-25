@@ -1,0 +1,21 @@
+What is git?
+
+Version Control System
+Graph of States
+_______________
+_______________
+****look at slides after class for missed notes here****
+
+git init - create new repository
+(master x [in fish, after prompt] - x = dirty file/not committed)
+do not create repo in home dir - if you do by accident, get rid of it
+
+only use git init once per project
+
+
+git status - gives status report showing status of repo
+"bread and butter"
+
+
+Basic Git Workflow:
+unix_notes --> Add/Staging(trying it out) --> commit(snapshot)--> unix_notes
